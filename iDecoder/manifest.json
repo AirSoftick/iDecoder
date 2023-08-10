@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "iDecoder",
+    "version": "1.0",
+    "description": "Расширение для перевода текста с помощью iDecoder",
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    },
+    "permissions": [
+      "contextMenus",
+      "activeTab",
+      "clipboardWrite"
+    ],
+    "icons": {
+      "48": "icon.png"
+    }
+  }
+  
