@@ -4,7 +4,7 @@
     "version": "1.0",
     "description": "Расширение для перевода текста с помощью iDecoder",
     "background": {
-      "scripts": ["background.js"],
+      "scripts": ["Decoder.js"],
       "persistent": false
     },
     "permissions": [
