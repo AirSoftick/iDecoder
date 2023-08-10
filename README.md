@@ -19,12 +19,15 @@
 1. Откройте браузер и перейдите по ссылке: "chrome://extensions/".
 
 2. Включите режым разработчика.
+   
 ![rr](https://github.com/AirSoftick/iDecoder/assets/141844045/e79a785f-b315-425a-b246-827ef72b501c)
 
-3. Нажмите "Загрузить распакованные расширение"
+4. Нажмите "Загрузить распакованные расширение"
+  
 ![zrr](https://github.com/AirSoftick/iDecoder/assets/141844045/f64d877b-f917-465c-a1fd-a2f0213d97b6)
 
-4. Выберите папку iDecoder
+6. Выберите папку iDecoder
+ 
 ![id](https://github.com/AirSoftick/iDecoder/assets/141844045/ff80c045-9189-43f4-a42f-487621f9457c)
 
 
