@@ -32,9 +32,8 @@
 
 6. Выберите папку iDecoder.
    
- ![id](https://github.com/AirSoftick/iDecoder/assets/141844045/23def321-45f0-49b2-aacd-30a74c7bd284)
+![id](https://github.com/AirSoftick/iDecoder/assets/141844045/23def321-45f0-49b2-aacd-30a74c7bd284)
 
-![id](https://github.com/AirSoftick/iDecoder/assets/141844045/ff80c045-9189-43f4-a42f-487621f9457c)
 
 
 
